@@ -54,7 +54,7 @@ module.exports = function (grunt) {
           done(new Error(err));
         } else {
           // Success message.
-          grunt.log.ok('Tweet “' + reply.text + '” has been sent');
+          grunt.log.ok('Tweet “' + reply.text + '” has been sent.');
           done();
         }
       });

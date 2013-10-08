@@ -68,5 +68,7 @@ grunt.initConfig({
 ```
 
 ## Release History
+### 0.0.2, Oct 8 2013
+Better log. Minor development things.
 ### 0.0.1, Oct 8 2013
 Initial commit.
