@@ -1,7 +1,7 @@
 {
   "name": "grunt-tweet",
   "description": "Tweet from Grunt task.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "https://github.com/artpolikarpopov/grunt-tweet",
   "author": {
     "name": "Artem Polikarpov",
