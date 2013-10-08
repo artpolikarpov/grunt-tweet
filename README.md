@@ -34,7 +34,7 @@ grunt.initConfig({
     },
     release: {
       options: {
-        crop: true
+        crop: true // Crop tweet if it’s too long
       },
       text: 'The 0.0.1 release',
       url: 'https://github.com/owner/repo/releases/tag/0.0.1'
@@ -43,7 +43,7 @@ grunt.initConfig({
 })
 ```
 
-Create [an Tweeter App](https://dev.twitter.com/apps/new) and get OAuth credentials (if you haven't already). Be careful, these tokens are like passwords so you should guard them carefully.
+Create [an Twitter App](https://dev.twitter.com/apps/new) and get OAuth credentials (if you haven’t already). Be careful, these tokens are like passwords so you should guard them carefully.
 
 Best practice is to store credentials in separate gitignored-file, `tweet.json` for example:
 
