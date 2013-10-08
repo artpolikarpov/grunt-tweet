@@ -20,13 +20,6 @@
       "url": "https://github.com/artpolikarpopov/grunt-tweet/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "Gruntfile.js",
-  "engines": {
-    "node": ">= 0.8.0"
-  },
-  "scripts": {
-    "test": "grunt test"
-  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-clean": "~0.4.1",
