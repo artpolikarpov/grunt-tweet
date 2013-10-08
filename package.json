@@ -1,23 +1,23 @@
 {
   "name": "grunt-tweet",
   "description": "Tweet from Grunt task.",
-  "version": "0.0.4",
-  "homepage": "https://github.com/artpolikarpopov/grunt-tweet",
+  "version": "0.0.5",
+  "homepage": "https://github.com/artpolikarpov/grunt-tweet",
   "author": {
     "name": "Artem Polikarpov",
     "email": "artpolikarpov@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/artpolikarpopov/grunt-tweet.git"
+    "url": "https://github.com/artpolikarpov/grunt-tweet.git"
   },
   "bugs": {
-    "url": "https://github.com/artpolikarpopov/grunt-tweet/issues"
+    "url": "https://github.com/artpolikarpov/grunt-tweet/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/artpolikarpopov/grunt-tweet/blob/master/LICENSE-MIT"
+      "url": "https://github.com/artpolikarpov/grunt-tweet/blob/master/LICENSE-MIT"
     }
   ],
   "devDependencies": {

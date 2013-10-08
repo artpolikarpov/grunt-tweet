@@ -70,6 +70,8 @@ grunt.initConfig({
 ```
 
 ## Release History
+### 0.0.5, Oct 8 2013
+Update Readme.md.
 ### 0.0.4, Oct 8 2013
 Update Readme.md. Minor development minors.
 ### 0.0.3, Oct 8 2013
