@@ -68,6 +68,8 @@ grunt.initConfig({
 ```
 
 ## Release History
+### 0.0.3, Oct 8 2013
+Add root `Gruntfile.js` for development and testing.
 ### 0.0.2, Oct 8 2013
 Better log. Minor development things.
 ### 0.0.1, Oct 8 2013
